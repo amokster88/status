@@ -3,14 +3,14 @@ owner: status # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: EM-X
+    url: $EM_X
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.luke.casa
-  # baseUrl: /your-repo-name
+  #cname: status.luke.casa
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Servers Status
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
