@@ -7,6 +7,21 @@ sites:
     url: $EM_X
     __dangerous__insecure: true
     __dangerous__body_down_if_text_missing: "Emby Server"
+  - name: ANDROMEDA
+    url: $EM_ANDROMEDA
+    __dangerous__body_down_if_text_missing: "Emby Server"
+  - name: CASSIOPEIA
+    url: $EM_CASSIOPEIA
+    __dangerous__body_down_if_text_missing: "Emby Server"
+  - name: COMET
+    url: $EM_COMET
+    __dangerous__body_down_if_text_missing: "Emby Server"
+  - name: EON
+    url: $EM_EON
+    __dangerous__body_down_if_text_missing: "Emby Server"
+  - name: NEBULON
+    url: $EM_NEBULON
+    __dangerous__body_down_if_text_missing: "Emby Server"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
