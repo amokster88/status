@@ -6,7 +6,7 @@ sites:
   - name: EM-X
     url: $EM_X
     __dangerous__insecure: true
-    __dangerous__body_down_if_text_missing: '"status":"Emby Server"'
+    __dangerous__body_down_if_text_missing: "Emby Server"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,3 +26,5 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+  footer: This page is open source, powered by [Upptime](https://upptime.js.org)
