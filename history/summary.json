@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 746,
     "timeDay": 830,
-    "timeWeek": 848,
+    "timeWeek": 849,
     "timeMonth": 746,
     "timeYear": 746,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "$EM_COMET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "comet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
