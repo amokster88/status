@@ -94,17 +94,17 @@
     "url": "$EM_NEBULON",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nebulon",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 765,
-    "timeDay": 854,
-    "timeWeek": 910,
-    "timeMonth": 810,
-    "timeYear": 765,
+    "time": 767,
+    "timeDay": 843,
+    "timeWeek": 901,
+    "timeMonth": 811,
+    "timeYear": 767,
     "dailyMinutesDown": {}
   }
 ]
