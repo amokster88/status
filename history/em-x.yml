@@ -1,7 +1,7 @@
 url: $EM_X
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-24T12:16:26.745Z
+status: up
+code: 200
+responseTime: 547
+lastUpdated: 2025-09-24T12:53:58.565Z
 startTime: 2025-08-21T12:19:44.802Z
 generator: Upptime <https://github.com/upptime/upptime>
