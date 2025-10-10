@@ -13,7 +13,7 @@
     "time": 599,
     "timeDay": 464,
     "timeWeek": 566,
-    "timeMonth": 699,
+    "timeMonth": 696,
     "timeYear": 599,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 900,
     "timeDay": 731,
     "timeWeek": 727,
-    "timeMonth": 1022,
+    "timeMonth": 1026,
     "timeYear": 900,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 773,
     "timeDay": 727,
     "timeWeek": 735,
-    "timeMonth": 834,
+    "timeMonth": 822,
     "timeYear": 773,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 795,
     "timeDay": 727,
     "timeWeek": 739,
-    "timeMonth": 843,
+    "timeMonth": 833,
     "timeYear": 795,
     "dailyMinutesDown": {}
   },
@@ -94,7 +94,7 @@
     "url": "$EM_NEBULON",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nebulon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -103,7 +103,7 @@
     "time": 765,
     "timeDay": 738,
     "timeWeek": 735,
-    "timeMonth": 818,
+    "timeMonth": 810,
     "timeYear": 765,
     "dailyMinutesDown": {}
   }
