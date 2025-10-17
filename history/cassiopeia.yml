@@ -1,7 +1,7 @@
 url: $EM_CASSIOPEIA
-status: up
-code: 200
-responseTime: 727
-lastUpdated: 2025-10-16T23:07:23.195Z
+status: down
+code: 502
+responseTime: 716
+lastUpdated: 2025-10-17T04:36:17.954Z
 startTime: 2025-08-21T13:16:58.771Z
 generator: Upptime <https://github.com/upptime/upptime>
