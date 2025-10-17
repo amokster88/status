@@ -1,7 +1,7 @@
 url: $EM_EON
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-17T04:44:50.732Z
+status: up
+code: 200
+responseTime: 717
+lastUpdated: 2025-10-17T04:52:13.524Z
 startTime: 2025-08-21T13:17:00.815Z
 generator: Upptime <https://github.com/upptime/upptime>
