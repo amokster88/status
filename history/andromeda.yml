@@ -1,7 +1,7 @@
 url: $EM_ANDROMEDA
-status: down
-code: 502
-responseTime: 721
-lastUpdated: 2025-11-10T11:28:37.323Z
+status: up
+code: 200
+responseTime: 775
+lastUpdated: 2025-11-10T11:37:10.751Z
 startTime: 2025-08-21T13:16:57.584Z
 generator: Upptime <https://github.com/upptime/upptime>
