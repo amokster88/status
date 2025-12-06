@@ -22,7 +22,7 @@
     "url": "$EM_ANDROMEDA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "andromeda",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 758,
     "timeDay": 729,
     "timeWeek": 722,
-    "timeMonth": 730,
+    "timeMonth": 731,
     "timeYear": 758,
     "dailyMinutesDown": {}
   },
