@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 856,
     "timeDay": 606,
-    "timeWeek": 596,
+    "timeWeek": 602,
     "timeMonth": 728,
     "timeYear": 856,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "$EM_CASSIOPEIA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cassiopeia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
